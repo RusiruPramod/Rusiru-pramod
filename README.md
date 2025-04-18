@@ -1,12 +1,6 @@
 <h2 align="left">Hi 👋! My name is Rusiru  and I'm a Developer from Sri lanka.</h2>
 
-###
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/hIeYpLOyDMys/200w.gif?cid=6c09b9526w2v3df0motysorghe22er7hzpbdyzd7hiuzk2bi&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
